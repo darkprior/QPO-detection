@@ -1,0 +1,25 @@
+.
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           ├── Application.java
+│   │   │           └── SomeOtherClass.java
+│   │   ├── resources/
+│   │   │   ├── application.properties
+│   │   │   └── somefile.txt
+│   │   └── webapp/
+│   │       ├── css/
+│   │       ├── images/
+│   │       └── js/
+│   ├── test/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── ApplicationTest.java
+│   │   └── resources/
+│   └── pom.xml
+├── target/
+├── README.md
+└── LICENSE
