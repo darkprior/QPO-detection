@@ -6,10 +6,11 @@ This repository contains the scripts and models for the detection of QPOs of CVs
 
 ### Prerequisites
 
-List of prerequisites required to run the scripts:
+List of Python libraries required to run the scripts:
 * matplotlib
 * numpy
 * tensorflow
+* pickle
 
 ### Folder structure
 
@@ -34,7 +35,7 @@ Folder structure (change if needed):
 
 ## Usage
 
-Instructions on how to use the project.
+Download the Testing script, 
 
 ## Contributing
 
