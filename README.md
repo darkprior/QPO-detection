@@ -48,8 +48,8 @@ Guidelines on how to contribute to the project.
 
 List of authors who have contributed to the project:
 
-[Denis Benka](https://www.linkedin.com/in/denis-benka/)
-[Sabína Vašová](https://www.linkedin.com/in/sabina-vasova/)
+* [Denis Benka](https://www.linkedin.com/in/denis-benka/)
+* [Sabína Vašová](https://www.linkedin.com/in/sabina-vasova/)
 
 ## License
 
