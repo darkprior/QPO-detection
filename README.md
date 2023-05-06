@@ -14,16 +14,15 @@ List of prerequisites required to run the scripts:
 ### Folder structure
 
 Folder structure (change if needed):
-📦testdata
- ┣ 📂3lor
- ┗ 📂4lor
- ┃ ┣ 📂lc
- ┃ ┃ ┣ 📜4lor_1.png
-        ...
-📦lc5000
- ┣ 📂3lor
- ┃ ┣ 📜3lor_1.png
-        ...
+testdata                 
+├─ 3lor                  
+└─ 4lor                  
+   ├─ lc                 
+   │  ├─ 4lor_1.png      
+   │  ├─ ...  
+
+
+
 ## Usage
 
 Instructions on how to use the project.
