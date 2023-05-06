@@ -14,16 +14,15 @@ List of prerequisites required to run the scripts:
 ### Folder structure
 
 Folder structure (change if needed):
-* [testdata/](./testdata)                 
-├─* [3lor/](./testdata/3lor/)                  
-└─* [4lor/](./testdata/4lor/4lor)                  
-   ├─* [lc/](./testdata/4lor/lc/)                 
-   │  ├─* [4lor_1.png](./testdata/4lor/lc/4lor_1.png)      
-   │  ├─ ... 
-   
-   ├─* [pds/](./testdata/4lor/pds/)                 
-   │  ├─* [4lor_1.png](./testdata/4lor/pds/4lor_1.png)      
-   │  ├─ ... 
+* [testdata/](./testdata) 
+  * [4lor/](./testdata/4lor/) 
+    * [lc/](./testdata/4lor/lc/)      
+    * [pds/](./testdata/4lor/pds/)         
+* [trendata/](./trendata/)
+  * [lc5000/](./trendata/lc5000/)
+    * [3lor/](./trendata/lc5000/3lor/)
+    * [4lor/](./trendata/lc5000/4lor/)
+
 
 
 
