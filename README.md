@@ -17,12 +17,19 @@ Folder structure (change if needed):
 * [testdata/](./testdata) 
   * [4lor/](./testdata/4lor/) 
     * [lc/](./testdata/4lor/lc/)      
-    * [pds/](./testdata/4lor/pds/)         
+    * [pds/](./testdata/4lor/pds/)  
+
 * [trendata/](./trendata/)
   * [lc5000/](./trendata/lc5000/)
     * [3lor/](./trendata/lc5000/3lor/)
     * [4lor/](./trendata/lc5000/4lor/)
 
+* [CNN model history](./historyModel5000_lc)
+* [MV Lyrae light curve](./lc_scaringi_all.dat)
+* [CNN model](./model5000_lc.tflite)
+
+* [Training script](./QPO_imagrecog_LC_train.py)
+* [Testing script](./QPO_imagrecog_LC_test.py)
 
 
 
