@@ -19,7 +19,10 @@ Folder structure (change if needed):
 └─* [4lor/](./testdata/4lor/4lor)                  
    ├─* [lc/](./testdata/4lor/lc/)                 
    │  ├─* [4lor_1.png](./testdata/4lor/lc/4lor_1.png)      
-   │  ├─ ...  
+   │  ├─ ... 
+   ├─* [pds/](./testdata/4lor/pds/)                 
+   │  ├─* [4lor_1.png](./testdata/4lor/pds/4lor_1.png)      
+   │  ├─ ... 
 
 
 
