@@ -18,7 +18,6 @@ Folder structure (change if needed):
   * [4lor/](./testdata/4lor/) 
     * [lc/](./testdata/4lor/lc/)      
     * [pds/](./testdata/4lor/pds/)  
-
 * [trendata/](./trendata/)
   * [lc5000/](./trendata/lc5000/)
     * [3lor/](./trendata/lc5000/3lor/)
