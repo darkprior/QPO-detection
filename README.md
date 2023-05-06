@@ -14,11 +14,11 @@ List of prerequisites required to run the scripts:
 ### Folder structure
 
 Folder structure (change if needed):
-testdata                 
-├─ 3lor                  
-└─ 4lor                  
-   ├─ lc                 
-   │  ├─ 4lor_1.png      
+* [testdata/](./testdata)                 
+├─* [3lor/](./testdata/3lor/)                  
+└─* [4lor/](./testdata/4lor/4lor)                  
+   ├─* [lc/](./testdata/4lor/lc/)                 
+   │  ├─* [4lor_1.png](./testdata/4lor/lc/4lor_1.png)      
    │  ├─ ...  
 
 
