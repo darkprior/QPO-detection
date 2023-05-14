@@ -8,7 +8,7 @@ To create a training dataset we simulated the data. We used two types of trainin
 What is the motivation? Astronomers use old fashioned methods for estimating the confidence of QPO (e.g., [Timmer & Koenig](https://articles.adsabs.harvard.edu/pdf/1995A%26A...300..707T)). This method does not detect subtle QPO, only obvious ones. In our research we proposed a CNN to detect such QPO and thus provide a more reliable source for estimating confidence of QPO.
 
 The QPOs we want to detect is depicted on the power density spectra here: 
-[QPO-w/confidence](./QPOwconfidence.jpg)
+![QPO-w/confidence](./QPOwconfidence.jpg)
 
 ## Getting Started
 
