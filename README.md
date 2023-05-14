@@ -61,4 +61,4 @@ List of authors who have contributed to the project:
 
 ## License
 
-This project is licensed under the [MIT License] license - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [Creative Commons Zero v1.0 Universal] license - see the [LICENSE.md](LICENSE.md) file for details.
