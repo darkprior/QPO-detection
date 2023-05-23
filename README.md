@@ -11,7 +11,7 @@ What is the motivation? Astronomers use old fashioned methods for estimating the
 The light curve we use is shown here:
 ![Light curve](./lcall.png)
 
-Since it is not clear, whether (or if) there are any QPO, we need to further process the light curve. Our approach includes the creation of periodograms and subsequently a power density spectrum. After undergoing the latter, we get a more clear image of our QPOs.The QPOs we want to detect is depicted on the power density spectra here: 
+Since it is not clear, whether (or if) there are any QPO, we need to further process the light curve. Our approach includes the creation of periodograms and subsequently a power density spectrum. After undergoing the latter, we get a more clear image of our QPOs. The QPO we want to detect is depicted on the power density spectra here: 
 ![QPO-w/confidence](./QPOwconfidence.jpg)
 
 
