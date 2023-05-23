@@ -14,6 +14,13 @@ The light curve we use is shown here:
 Since it is not clear, whether (or if) there are any QPO, we need to further process the light curve. Our approach includes the creation of periodograms and subsequently a power density spectrum. After undergoing the latter, we get a more clear image of our QPOs.The QPOs we want to detect is depicted on the power density spectra here: 
 ![QPO-w/confidence](./QPOwconfidence.jpg)
 
+
+This power density spectrum was fitted with a 5-component Lorentz model, commonly used to describe QPOs in astronomy. The fitted parameters were then used to create simulated light curves (according to Timmer & Koenig). We simulated two categories: with the QPO and without the QPO present. The data were saved in numerical form as well as power density spectra images as shown earlier. These were then used to feed the CNN model. The model was tested on 10000 simulated power density spectra. The best-in-case model yielded a 87% testing accuracy.
+
+We tried a slightly different approach, namely, we used simulated light curves instead of power density spectra to train our model. To our surprise, this model achieved better performance, 98% testing accuracy, proving the effectiveness of our CNN and surpassing the Timmer & Koenig method of QPO confidence estimation.
+
+The link to the model trained on simulated light curves can be found later in this repository.
+
 ## Getting Started
 
 ### Prerequisites
