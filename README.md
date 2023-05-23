@@ -1,6 +1,6 @@
 # Machine learning model for the detection of quasiperiodic oscillations in cataclysmic variables
 
-This repository contains the scripts and models for the detection of Quasiperiodic oscillations (QPOs) of CVs. Our goal is to detect subtle quasiperiodic oscillations in cataclysmic variables. For our case study, we used the data of  MV Lyrae, namely its 272-day long light curve. Out of the light curve, we created periodograms and subsequently power density spectra.
+This repository contains the scripts and models for the detection of Quasiperiodic oscillations (QPOs) of cataclysmic variables (CVs). Our goal is to detect subtle quasiperiodic oscillations in cataclysmic variables. For our case study, we used the data of  MV Lyrae, namely its 272-day long light curve. Out of the light curve, we created periodograms and subsequently power density spectra.
 To create a training dataset we simulated the data. We used two types of training data:
 * numerical
 * image
