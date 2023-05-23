@@ -6,7 +6,7 @@ To create a training dataset we simulated the data. We used two types of trainin
 * numerical
 * image
 
-What is the motivation? Astronomers use old fashioned methods for estimating the confidence of QPO (e.g., [Timmer & Koenig](https://articles.adsabs.harvard.edu/pdf/1995A%26A...300..707T)). This method does not detect subtle QPO, only obvious ones. In our research we proposed a CNN to detect such QPO and thus provide a more reliable source for estimating confidence of QPO.
+What is the motivation? Astronomers use old fashioned sigma intervals for estimating the confidence of QPO (e.g., [Timmer & Koenig](https://articles.adsabs.harvard.edu/pdf/1995A%26A...300..707T)). This method does not detect subtle QPO, only obvious ones. In our research we proposed a CNN to detect such QPO and thus provide a more reliable source for estimating confidence of QPO.
 
 The light curve we use is shown here:
 ![Light curve](./lcall.png)
@@ -44,7 +44,7 @@ Folder structure (change if needed):
     * [4lor/](./trendata/lc5000/4lor/)
 
 * [CNN model history](./historyModel5000_lc)
-* [MV Lyrae light curve](./lc_scaringi_all.dat)
+* [MV Lyrae light curve raw data](./lc_scaringi_all.dat)
 * [CNN model](./model5000_lc.tflite)
 
 * [Training script](./QPO_imagrecog_LC_train.py)
